@@ -1,6 +1,6 @@
 # Clean architecture template
 
-This is a template for a clean architecture project in JavaScript.
+This is a template for a clean architecture project in NodeJS.
 
 ### Template structure
 
